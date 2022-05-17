@@ -16,11 +16,18 @@
 
 ***
 
->>project outline
+>> # PROJECT OUTLINE
 
 
+![IMAGE](project.JPG)
 
  ### CODE OUTLINE :
+ 
  ![IMAGE](code_outline.JPG)
+ 
  ### ARDUINO CIRCUIT
+ 
  ![IMAGE](arduino_circuit.JPG)
+ 
+ 
+ ***
