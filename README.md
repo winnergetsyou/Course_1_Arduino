@@ -13,7 +13,11 @@
  
  # SUBSCRIBED TOPIC NAME
  - topic_2
- 
+
+***
+
+> project outline
+
  ### CODE OUTLINE :
  ![IMAGE](code_outline.JPG)
  ### ARDUINO CIRCUIT
