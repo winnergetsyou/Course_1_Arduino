@@ -15,4 +15,4 @@
  - topic_2
  
  ### CODE OUTLINE :
- ![IMAGE]()
+ ![IMAGE](code_outline.JPG)
