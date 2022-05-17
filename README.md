@@ -17,4 +17,4 @@
  ### CODE OUTLINE :
  ![IMAGE](code_outline.JPG)
  ### ARDUINO CIRCUIT
- ![IMAGE](arduino-circuit.JPG)
+ ![IMAGE](arduino_circuit.JPG)
